@@ -1,2 +1,2 @@
 # Tomato-diseases.github.io
-![Alt text]()
+![Alt text](โรคมะเขือเทศ.pdf)
